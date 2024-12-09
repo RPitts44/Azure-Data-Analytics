@@ -1,0 +1,11 @@
+Employee ID,Name,Department,SalesAmount,PerformanceScore,YearsAtCompany,TrainingHours,Status
+1001,John Smith,Sales,50000,85,3,10,Active
+1002,Jane Doe,Sales,60000,95,5,20,Active
+1003,Mike Johnson,Marketing,45000,75,2,5,Active
+1004,Emily Davis,Sales,70000,90,4,15,Active
+1005,Sarah Wilson,HR,30000,80,6,8,Active
+1006,David Brown,Marketing,65000,92,3,12,Active
+1007,Laura Green,Sales,55000,88,4,18,Active
+1008,Chris Black,IT,40000,70,1,6,Inactive
+1009,Jessica White,Marketing,48000,78,2,4,Active
+1010,Tom Harris,Sales,60000,90,5,10,Active
